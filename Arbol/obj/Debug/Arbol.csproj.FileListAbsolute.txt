@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\bin\Debug\Arbol.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\bin\Debug\Arbol.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Arboles\Arbol\Arbol\obj\Debug\Arbol.pdb
